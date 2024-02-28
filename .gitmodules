@@ -1,0 +1,3 @@
+[submodule "sirius-api"]
+	path = sirius-api
+	url = https://github.com/miukyo/sirius-api
